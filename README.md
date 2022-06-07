@@ -24,7 +24,7 @@
   
 <div align="center">
   
-### 🍳My skills
+### 🍳 My skills
 
 </div>
   
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### 📚Lern 
+### 📚 Lern 
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=next.js&logoColor=white"/>
