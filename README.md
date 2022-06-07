@@ -8,6 +8,10 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheonWooseok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rightsn1110)](https://github.com/CheonWooseok/velog-readme-stats)
+
+  
+  
 ### 🏠 Me
 <a href="https://velog.io/@rightsn1110">
 <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
